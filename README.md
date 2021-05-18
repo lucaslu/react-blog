@@ -1,3 +1,12 @@
+# Blog
+This project is the [Full Modern React Tutorial from The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d). 
+
+It shows how to use Styles, click events, useState hook, useEffect hook, JSON server, fetching data, React Router, POST and DELETE requests and 404 page.
+
+In order to execute this project, after download this, you will need to execute the JSON server:
+
+### `npx json-server --watch data/db.json --port 8000`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
